@@ -25,3 +25,8 @@ p {
 }
 
 
+p::after {
+	content: 'Un after';
+}
+
+
