@@ -8,10 +8,20 @@
 body {
 	margin:0;
 	padding: 0;
+	background-color: #4B5B68;
 }
 
 h1, p {
 	width: 100%;
 	text-align: center;
 }
+
+h1 {
+	color: #FFFFFF;
+}
+
+p {
+	color: #C3E4FF;
+}
+
 
