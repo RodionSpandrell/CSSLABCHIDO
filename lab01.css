@@ -25,3 +25,7 @@ p {
 }
 
 
+p::before {
+	content: 'Se añade un before';
+	margin-right: 10px;
+}
